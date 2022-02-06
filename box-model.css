@@ -1,17 +1,25 @@
-#daftar-siswa{
+p {
+	color: #F3F4F6;
+	
+	font-family: sans-serif;
+	text-transform: uppercase;
+	padding-right: 400px;
+	padding-left: 15px;
+	
+}
+
+p:hover{
+	color: #111827;
+}
+
+
+#siswa{
 	background: gainsboro;
-
-}
-p:first-child {
-	background: #60A5FA;
-}
-
-p:last-child {
-	background: #F87171;
-}
-
-p:hover {
-	background: #E5E7EB;
+	position: absolute;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 15px;
+	padding-left: 15px;
 }
 
 nav {
