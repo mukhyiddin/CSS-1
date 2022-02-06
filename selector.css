@@ -1,3 +1,11 @@
 #daftar-siswa{
 	background: gainsboro;
+
+}
+p:first-child {
+	background: #60A5FA;
+}
+
+p:last-child {
+	background: #F87171;
 }
