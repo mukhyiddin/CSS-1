@@ -9,3 +9,7 @@ p:first-child {
 p:last-child {
 	background: #F87171;
 }
+
+p:hover {
+	background: #E5E7EB;
+}
